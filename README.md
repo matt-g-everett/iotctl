@@ -1,2 +1,2 @@
 # iotctl
-IoT control server and CLI application.
+CLI application for controlling iotd.
